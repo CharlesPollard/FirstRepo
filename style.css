@@ -1,0 +1,29 @@
+body {
+    background-image: url("http://data.whicdn.com/images/174466662/large.jpg");
+
+}s@import url("https://fonts.googleapis.com/css?family=Baloo+Tamma|Indie+Flower");
+h1 {
+  font-family: Indie Flower;
+}
+
+
+p {
+  font-family: Indie Flower;
+}
+
+h1 {
+  color: black;
+  background-color: pink;
+  border: 5px dashed red;
+  padding: 5px;
+  margin: 20px;
+  width: 400px;
+}
+
+p {
+  color: black;
+  background-color: pink;
+  border: 5px dashed red;
+  padding: 10px;
+  width: 300px;
+}
