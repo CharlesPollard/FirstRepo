@@ -1,11 +1,12 @@
-body {
-    background-image: url("http://data.whicdn.com/images/174466662/large.jpg");
+@import url("https://fonts.googleapis.com/css?family=Baloo+Tamma|Indie+Flower");
 
-}s@import url("https://fonts.googleapis.com/css?family=Baloo+Tamma|Indie+Flower");
 h1 {
   font-family: Indie Flower;
 }
 
+body {
+    background-image: url("http://data.whicdn.com/images/174466662/large.jpg");
+}
 
 p {
   font-family: Indie Flower;
